@@ -16,4 +16,4 @@ Another popular option is [Atom](https://atom.io/), an open-source text editor c
 
 ---
 
-[Got all that? Take a short quiz and test what you've just learned!](developer-tools-quiz-a.md)
+[Ready for the next lesson? Let's talk about file systems!](file-systems.md)
