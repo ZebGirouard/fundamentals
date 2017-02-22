@@ -24,7 +24,7 @@ by a talented student
 Built at GA.
 ```
 
-<a class="jsbin-embed" href="http://jsbin.com/rewadi/embed?html,css,output">My First Website on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.40.3"></script>
+<a class="jsbin-embed" href="http://jsbin.com/rewadi/embed?html,output">My First Website on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.40.3"></script>
 
 2) Next, open a *level one heading tag* (`h1`) at the very beginning where it says, "My first website!"
 
