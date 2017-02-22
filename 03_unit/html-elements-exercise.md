@@ -16,7 +16,7 @@ Your output should look like this:
 
 Type your answers directly into the JS Bin text editor below. If you don't see the JS Bin below, please refresh the page.
 
-1) Let's start with some content! Type the text below into your editor. Your content will render live in the **Output** window.
+1) Let's start with some content! Type the text below into the **HTML** window your editor. Your content will render live in the **Output** window.
 
 ```
 My first website!
