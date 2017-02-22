@@ -11,8 +11,8 @@ Throughout the next few units, you're going to build a Memory Game! In order to 
 #### Requirements
 
 - Create a GitHub account
-- Fork the WDI Fundamentals Memory Game repository
-- Clone your fork locally
+- Create a WDI Fundamentals Memory Game repository
+- Clone your repo locally
 
 #### Below are the steps to complete the assignment.
 
@@ -32,9 +32,9 @@ Throughout the next few units, you're going to build a Memory Game! In order to 
 <br>
 `git clone https://your/clone/url` (substituting the clone URL you copied above)
 <br>
-  This will copy your forked repo from GitHub to your computer, so that you can work on it locally.
+  This will copy your new repo from GitHub to your computer, so that you can work on it locally.
 
-7. If you have followed these directions correctly, now, you should have a repository in your `fundamentals` folder called `wdi-fundamentals-memorygame`. Right now, the repository is just an empty directory– but cloning is an important skill to learn, and we'll be adding files soon.
+7. If you have followed these directions correctly, now, you should have a repository in your `fundamentals` folder called `wdi-fundamentals-memorygame`. Right now, the repository only has a README – but cloning is an important skill to learn, and we'll be adding files soon.
 
 ---
 
