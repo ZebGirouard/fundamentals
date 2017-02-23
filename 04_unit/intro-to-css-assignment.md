@@ -64,7 +64,7 @@ Right now all the images will display the backs of the cards, but in a later uni
 - Now, go back to your `index.html` and connect your css file (`style.css`) by using a `link` tag to reference it in the `head` of your HTML file.
 	
 	```html
-	<link href="css/style.css" rel="stylesheet" type="text/css">
+	<link href="style.css" rel="stylesheet" type="text/css">
 	```
 
 6) Now let's add the Google font that we will be using for this site. In the `head` of your HTML file, right before the `link` to your CSS file, add the following code:
