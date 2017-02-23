@@ -93,7 +93,7 @@ Part 2:
 <a name="adding-color"></a>
 ### 4.1 Adding Color
 
-1. Change the value of the `#name` `div` from `white` to `red`.
+1. Change the value of the `background` for the `#name` `div` from `white` to `red`.
 
 	```css
 	#name {

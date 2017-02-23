@@ -24,7 +24,7 @@ Let's look at the starter CSS. This div style sets the size, position, style, an
 
 
 
-0. Change the value of the `#name` `div` from `white` to `red`. Remember to click on the **Output** button to see what your code now renders!
+0. Change the value of the `background` for the `#name` `div` from `white` to `red`. Remember to click on the **Output** button to see what your code now renders!
 
 0. Turn the `#hex` `div` red by leaving the first two characters at their maximums of `ff`, and changing the last four characters to their minimums of `0`.
 
