@@ -37,8 +37,6 @@ As you move through the next several units, you'll build parts of a browser memo
 You'll use the `div` and `img`s to create a "board" and the individual "cards" that will be displayed on the webpage.
 
 3) Now let's add the images we'll be using for the game.
-- Right click on the `memory_game` folder in the sidebar in sublime and select the "New Folder" option.
-- Name the new folder `images`.
 - Visit [this link](https://drive.google.com/file/d/0B3vwi9JWe-1OVW02S25tQ2ZVNVE/view?usp=sharing) to download a zip file with the images that you'll need for this project.
 - After downloading the images, double-click on the zip file to unzip it, then move the **entire `images` folder** into the `memory_game` folder in Finder. Once you've moved it in Finder, you should see the folder name appear in the sidebar in Sublime text.
 
