@@ -12,7 +12,7 @@ If you don't see the JS Bin below, please refresh the page.
 
 1. Take a look at the starter code below. Yep, it's your HTML boilerplate!
 
-	<a class="jsbin-embed" href="http://jsbin.com/wuxajaw/embed?html,css,output">Grumpy Cat on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.40.3"></script>
+	<a class="jsbin-embed" href="http://jsbin.com/wuxajaw/embed?html,output">Grumpy Cat on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.40.3"></script>
 
 2. Write in an `img` tag between the body tags.
 
