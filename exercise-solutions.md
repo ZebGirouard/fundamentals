@@ -9,7 +9,7 @@ The following solutions are for the unit exercises.
 | 3  |  1 | [HTML Elements](#html-elements) |
 | 3  |  2 | [HTML Links](#hyperlinks) |
 | 4  |  1 | [Adding Color](#adding-color) |
-| 4  |  6 | [Working with Images](#working-with-images) |
+| 4  |  5 | [Working with Images](#working-with-images) |
 | 5  |  3 | [The Box Model](#the-box-model) |
 | 5  |  4 | [Header, Footer, Nav](#semantic-elements) |
 | 6  |  3 | [Horizontal Navigation](#horizontal-nav) |
