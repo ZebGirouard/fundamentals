@@ -70,7 +70,6 @@ Flip over to your CSS tab.
 
 0. Write a rule for `h1`, and set its `font-size` to `36px`.
 
-
 0. Create a rule for `h2`, and set its `font-size` to `27px`.
 	
 0. Use only one `padding` declaration to give `h2` a top and bottom `padding` of `14px`.
