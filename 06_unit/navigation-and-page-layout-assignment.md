@@ -42,7 +42,6 @@ Created with &hearts; by <span class="name">GA</span>
 - Make the text uppercase.
 - Add `20px` padding on the right and left sides.
 - Give it a background color of `#0D2C40`.
-- The text color should be `white`.
 - The font size should be `14px`.
 - Give it a letter spacing of `.08em`.
 - The font weight should be `500`.
@@ -52,6 +51,7 @@ Created with &hearts; by <span class="name">GA</span>
 4) Alright, now let's add some styles to the two paragraphs in the footer. We can target each paragraph in our CSS file using the class names we added in our HTML &mdash; `.copyright` and `.message`.
 
 - Each paragraph should be displayed using the "Raleway" font family.
+- The text color for both paragraphs should be `white`.
 - Float `.copyright` to the left.
 - Float `.message` to the right.
   
@@ -72,11 +72,11 @@ Add the following code to your `style.css` file:
 
 Then give the `footer` the class `clearfix` in your `index.html` file.
 
-5) Let's add some flair to the word `GA` in the footer. In your html, you'll notice that it's wrapped with a span that has the class `name`. 
+6) Let's add some flair to the word `GA` in the footer. In your html, you'll notice that it's wrapped with a span that has the class `name`. 
 
 Select `.name` in your `style.css` file and give it a color of `#F15B31` and a font weight of `700`.
 
-6) Finally, let's add a hover effect to the anchors in the `nav`.
+7) Finally, let's add a hover effect to the anchors in the `nav`.
 
 In your `style.css` file, give all anchors the following style: `border-bottom: 2px solid transparent;`
 
