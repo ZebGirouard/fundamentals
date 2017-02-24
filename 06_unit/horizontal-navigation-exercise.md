@@ -32,7 +32,7 @@ We'll be using external fonts for this challenge. Let's start out by linking the
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,800" rel="stylesheet" type="text/css">
 ```
 
-2) Now, you need to tell your CSS where to use the font. Change the `font-family` declaration in your `body` style rule to `'Open Sans', sans serif`. Remember to put "Open Sans" in quotes so the CSS reads them together. This is necessary for font families whose names have more than one word.
+2) Now, you need to tell your CSS where to use the font. Change the `font-family` declaration in your `body` style rule to `'Open Sans', sans-serif`. Remember to put "Open Sans" in quotes so the CSS reads them together. This is necessary for font families whose names have more than one word.
 
 *Nice! You just built a font stack. Font stacks give CSS guidance on which font to use if the preferred font is unavailable. Now, if the Google servers ever go down, your site will display with a default sans serif font!*
 
